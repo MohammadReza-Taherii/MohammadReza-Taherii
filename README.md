@@ -56,9 +56,9 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/Mohammadr
 
 ## PROJECTS DEMO
 **Danayan Trader**
-
 Online stock trading system.
-- React.js, Material ui, es6, State Managment: Redux and toolkit, React query, Restful and Websocket, Axios, Version control: Git.
+React.js, Material ui, es6, State Managment: Redux and toolkit, React query, Restful and Websocket, Axios, Version control: Git.
+
 ![alt text](/assets/image/danayantrader.jpg?raw=true)
 
 <!-- Let's build amazing web experiences together! 🚀 --!>
