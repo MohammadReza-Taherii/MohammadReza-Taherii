@@ -2,7 +2,7 @@
 
 # MohammadReza Taheri
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadreza-taheri-blue)](https://www.linkedin.com/in/mohammadreza-taheri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MohammadRezaTaheri-blue)](https://www.linkedin.com/in/mohammadreza-taheri/)
 [![Personal Website](https://img.shields.io/badge/Website-moreta.ir-brightgreen)](https://moreta.ir/)
 [![GitHub](https://img.shields.io/github/followers/Mohammadreza-taherii?label=Follow&style=social)](https://github.com/Mohammadreza-taherii)
 
