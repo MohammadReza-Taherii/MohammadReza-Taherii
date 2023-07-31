@@ -55,7 +55,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/Mohammadr
 - Email: taheri.mr73@gmail.com
 
 ## PROJECTS DEMO
-### **Danayan Trader**
+### **Danayan Trader** <br/>
 Online stock trading system.
 
 React.js, Material ui, es6 <br/>
