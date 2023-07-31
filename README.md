@@ -54,6 +54,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/Mohammadr
 - Phone: +989127635409
 - Email: taheri.mr73@gmail.com
 
+## PROJECTS DEMO
+
+![alt text](https://github.com/[MohammadReza-Taherii]/[MohammadReza-Taherii]/blob/[main]/assets/image/danayantrader.png?raw=true)
+
 <!-- Let's build amazing web experiences together! 🚀 --!>
 
 <!--
