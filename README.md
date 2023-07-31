@@ -63,7 +63,7 @@ State Managment: Redux and toolkit  <br/>
 React query, Restful and Websocket, Axios  <br/>
 Version control: Git.
 
-![alt text](/assets/image/danayantrader.jpg?raw=true)
+<img src="/assets/image/danayantrader.jpg" width="48">
 
 <!-- Let's build amazing web experiences together! 🚀 --!>
 
