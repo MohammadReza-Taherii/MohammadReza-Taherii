@@ -18,19 +18,13 @@ Hello there! I'm **MohammadReza Taheri**, a **frontend developer** based in Tehr
 ## Primary Skills
 
 - Frontend development
-- React.js
-- Next.js
-- ES6
-- TypeScript
+- React.js, Next.js
+- UI frameworks: Material UI, Tailwind CSS
+- ES6, TypeScript
 - Redux & Redux Toolkit
-- React Hooks
-- React Query
-- Restful API
-- Axios
-- WebSocket
+- Restful API, WebSocket, React Query, Axios
 - Version control: Git
 - Graphs: D3.js, Tradingview
-- UI frameworks: Material UI, Tailwind CSS
 
 ## Backend
 
@@ -53,16 +47,14 @@ Visit my personal website [here](https://moreta.ir/) to know more about me and e
 - Attention to detail
 - Continuous learning and adaptability
 
-## Contact
-
-- Phone: +989127635409
-- Email: taheri.mr73@gmail.com
-
 ## Get in Touch
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/Mohammadrezataheri/), check out my projects on [GitHub](https://github.com/Mohammadrezataheri), or visit my [personal website](https://moreta.ir/). I'm always open to new opportunities and collaborations!
 
-Let's build amazing web experiences together! 🚀
+- Phone: +989127635409
+- Email: taheri.mr73@gmail.com
+
+<!-- Let's build amazing web experiences together! 🚀 --!>
 
 <!--
 **MohammadReza-Taherii/MohammadReza-Taherii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
