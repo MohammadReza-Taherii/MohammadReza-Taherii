@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-# MohammdReza Taheri
+# MohammadReza Taheri
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammdrezataheri-blue)](https://www.linkedin.com/in/mohammadreza-taheri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammadreza-taheri-blue)](https://www.linkedin.com/in/mohammadreza-taheri/)
 [![Personal Website](https://img.shields.io/badge/Website-moreta.ir-brightgreen)](https://moreta.ir/)
-[![GitHub](https://img.shields.io/github/followers/mohammdrezataheri?label=Follow&style=social)](https://github.com/mohammdreza-taherii)
+[![GitHub](https://img.shields.io/github/followers/Mohammadreza-taherii?label=Follow&style=social)](https://github.com/Mohammadreza-taherii)
 
 ## About Me
 
-Hello there! I'm MohammdReza Taheri, a frontend developer based in Tehran, Iran. I am currently **29 years old** and I am passionate about crafting user-friendly and visually appealing web applications. My goal is to leverage cutting-edge technologies to build interactive and efficient web experiences.
+Hello there! I'm MohammadReza Taheri, a frontend developer based in Tehran, Iran. I am currently **29 years old** and I am passionate about crafting user-friendly and visually appealing web applications. My goal is to leverage cutting-edge technologies to build interactive and efficient web experiences.
 
 ## Languages
 
@@ -60,7 +60,7 @@ Visit my personal website [here](https://moreta.ir/) to know more about me and e
 
 ## Get in Touch
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohammdrezataheri/), check out my projects on [GitHub](https://github.com/mohammdrezataheri), or visit my [personal website](https://moreta.ir/). I'm always open to new opportunities and collaborations!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/Mohammadrezataheri/), check out my projects on [GitHub](https://github.com/Mohammadrezataheri), or visit my [personal website](https://moreta.ir/). I'm always open to new opportunities and collaborations!
 
 Let's build amazing web experiences together! 🚀
 
