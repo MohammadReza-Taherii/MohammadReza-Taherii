@@ -35,8 +35,8 @@ Visit my personal website [here](https://moreta.ir/) to know more about me and e
 
 ## Experience
 
-- More than 7 years of experience in UI/UX design and development.
 - More than 5 years of experience as a frontend developer, specializing in React.js and related technologies.
+- More than 7 years of experience in UI/UX design and development.
 
 ## Soft Skills
 
