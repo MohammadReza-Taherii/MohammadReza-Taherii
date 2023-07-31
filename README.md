@@ -56,7 +56,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/Mohammadr
 
 ## PROJECTS DEMO
 
-![alt text](https://github.com/[MohammadReza-Taherii]/[MohammadReza-Taherii]/blob/[main]/assets/image/danayantrader.png?raw=true)
+![alt text](https://github.com/[MohammadReza-Taherii]/[MohammadReza-Taherii]/blob/[main]/assets/image/danayantrader.jpg?raw=true)
 
 <!-- Let's build amazing web experiences together! 🚀 --!>
 
