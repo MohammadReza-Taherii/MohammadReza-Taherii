@@ -10,11 +10,6 @@
 
 Hello there! I'm **MohammadReza Taheri**, a **frontend developer** based in Tehran, Iran. I am currently **29 years old** and I am passionate about crafting user-friendly and visually appealing web applications. My goal is to leverage cutting-edge technologies to build interactive and efficient web experiences.
 
-## Languages
-
-- 🇮🇷 Persian (Native)
-- 🇺🇸 English
-
 ## Primary Skills
 
 - Frontend development
@@ -29,6 +24,11 @@ Hello there! I'm **MohammadReza Taheri**, a **frontend developer** based in Tehr
 ## Backend
 
 - Node.js
+- 
+## Languages
+
+- 🇮🇷 Persian (Native)
+- 🇺🇸 English
 
 ## Personal Website
 
