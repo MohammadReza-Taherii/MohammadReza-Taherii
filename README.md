@@ -12,7 +12,7 @@ Hello there! I'm **MohammadReza Taheri**, a **frontend developer** based in Tehr
 
 ## Primary Skills
 
-- Frontend development
+### Frontend development
 - React.js, Next.js
 - UI frameworks: Material UI, Tailwind CSS
 - ES6, TypeScript
@@ -21,8 +21,7 @@ Hello there! I'm **MohammadReza Taheri**, a **frontend developer** based in Tehr
 - Version control: Git
 - Graphs: D3.js, Tradingview
 
-## Backend
-
+### Backend
 - Node.js
   
 ## Languages
