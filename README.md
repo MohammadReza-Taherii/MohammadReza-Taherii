@@ -9,6 +9,8 @@
 ## About Me
 
 Hello there! I'm **MohammadReza Taheri**, a **frontend developer** based in Tehran, Iran. I am currently **29 years old** and I am passionate about crafting user-friendly and visually appealing web applications. My goal is to leverage cutting-edge technologies to build interactive and efficient web experiences.
+- 🇮🇷 Persian (Native)
+- 🇺🇸 English
 
 ## Primary Skills
 
@@ -23,20 +25,11 @@ Hello there! I'm **MohammadReza Taheri**, a **frontend developer** based in Tehr
 
 ### Backend
 - Node.js
-  
-## Languages
-
-- 🇮🇷 Persian (Native)
-- 🇺🇸 English
-
-## Personal Website
-
-Visit my personal website [here](https://moreta.ir/) to know more about me and explore some of my projects.
 
 ## Experience
 
-- More than 5 years of experience as a frontend developer, specializing in React.js and related technologies.
-- More than 7 years of experience in UI/UX design and development.
+- More than **5** years of experience as a **frontend developer**, specializing in React.js and related technologies.
+- More than **7** years of experience in **UI/UX** design and development.
 
 ## Soft Skills
 
@@ -52,6 +45,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/Mohammadr
 
 - Phone: +989127635409
 - Email: taheri.mr73@gmail.com
+- Website: [taheri.mr73@gmail.com](https://moreta.ir/)
 
 ## PROJECTS DEMO
 ### **Danayan Trader** 
