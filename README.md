@@ -45,7 +45,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/Mohammadr
 
 - Phone: +989127635409
 - Email: taheri.mr73@gmail.com
-- Website: [taheri.mr73@gmail.com](https://moreta.ir/)
+- Website: https://moreta.ir/
 
 ## PROJECTS DEMO
 ### **Danayan Trader** 
