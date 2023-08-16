@@ -57,6 +57,17 @@ React query, Restful and Websocket, Axios  <br/>
 Version control: Git.
 
 <img src="/assets/image/danayantrader.jpg" width="640">
+<img src="/assets/image/danayantrader-mobile.jpg" width="640">
+
+### **Danayan Trader** 
+Online stock trading system.
+
+React.js, Material ui, es6 <br/>
+State Managment: Redux and toolkit  <br/>
+React query, Restful and Websocket, Axios  <br/>
+Version control: Git.
+
+<img src="/assets/image/danayantrader.jpg" width="640">
 
 <!-- Let's build amazing web experiences together! 🚀 --!>
 
