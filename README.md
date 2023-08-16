@@ -58,7 +58,7 @@ Version control: Git.
 
 <img src="/assets/image/danayantrader.jpg" width="640">
 <img src="/assets/image/danayantrader-PWA.jpg" width="190">
-
+<hr/>
 ### **Online Store** 
 Pink shop & online store.
 
