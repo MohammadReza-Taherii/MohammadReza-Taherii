@@ -59,6 +59,7 @@ Version control: Git.
 <img src="/assets/image/danayantrader.jpg" width="640">
 <img src="/assets/image/danayantrader-PWA.jpg" width="190">
 <hr/>
+
 ### **Online Store** 
 Pink shop & online store.
 
@@ -69,6 +70,7 @@ Version control: Git.
 
 <img src="/assets/image/pink-1.png" width="640">
 <img src="/assets/image/pink-2.png" width="640">
+<hr/>
 
 ### **Online Store Admin Panel** 
 Online store admin panel.
@@ -79,6 +81,7 @@ Restful, Axios  <br/>
 Version control: Git.
 
 <img src="/assets/image/store-panel.png" width="640">
+<hr/>
 
 ### **Crypto Exchange** 
 Weswap crypto buy and sell.
