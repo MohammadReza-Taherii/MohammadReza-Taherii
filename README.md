@@ -51,7 +51,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/Mohammadr
 ### **Danayan Trader** 
 Online stock trading system.
 
-React.js, Material ui, es6 <br/>
+React.js, Material UI, es6 <br/>
 State Managment: Redux and toolkit  <br/>
 React query, Restful and Websocket, Axios  <br/>
 Version control: Git.
@@ -59,16 +59,36 @@ Version control: Git.
 <img src="/assets/image/danayantrader.jpg" width="640">
 <img src="/assets/image/danayantrader-PWA.jpg" width="190">
 
-### **Danayan Trader** 
-Online stock trading system.
+### **Online Store** 
+Pink shop & online store.
 
-React.js, Material ui, es6 <br/>
-State Managment: Redux and toolkit  <br/>
-React query, Restful and Websocket, Axios  <br/>
+Next.js, Tailwind, TypeScript, SSR <br/>
+State Managment: Redux, Toolkit  <br/>
+Restful, Axios  <br/>
 Version control: Git.
 
-<img src="/assets/image/danayantrader.jpg" width="640">
+<img src="/assets/image/pink-1.png" width="640">
+<img src="/assets/image/pink-2.png" width="640">
 
+### **Online Store Admin Panel** 
+Online store admin panel.
+
+React.js, Core ui, es6 <br/>
+State Managment: Redux  <br/>
+Restful, Axios  <br/>
+Version control: Git.
+
+<img src="/assets/image/store-panel.png" width="640">
+
+### **Crypto Exchange** 
+Weswap crypto buy and sell.
+
+React.js, Javacript, Material UI <br/>
+State Managment: Redux, Toolkit  <br/>
+Restful, Axios, Socket  <br/>
+Version control: Git.
+
+<img src="/assets/image/crypto.png" width="640">
 <!-- Let's build amazing web experiences together! 🚀 --!>
 
 <!--
