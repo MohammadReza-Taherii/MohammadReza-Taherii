@@ -17,16 +17,19 @@ Hello there! I'm **MohammadReza Taheri**, a **frontend developer** based in Tehr
 ### Frontend development
 - React.js, Next.js
 - Javascript, TypeScript
-- UI frameworks: Material UI, Tailwind CSS, Antd
+- UI frameworks: Material UI, Tailwind CSS, Antd, Coreui
 - Redux, Zustand
 - Redux Toolkit, React Query, Axios
 - Restful API
 - WebSocket: socket io
+- React-hook-form
 - Version control: Git
 - Graphs: D3.js, Tradingview
+- Docker and Docker-compose
+- NginX
 
 ### Backend
-- Node.js
+- Node.js / Express js -> Beginner
 
 ## Experience
 
