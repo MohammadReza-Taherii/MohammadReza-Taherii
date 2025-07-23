@@ -13,7 +13,7 @@
 • 7+ years of experience on user interface design and user experience.
 working on various projects with **large-scale users** by collaborating with **product stakeholders** ( Design, Product, QA, Backend).
 - 🇮🇷 Persian (Native)
-- 🇺🇸 English
+- 🇺🇸 English (B2)
 
 ## Primary Skills
 
@@ -33,7 +33,7 @@ working on various projects with **large-scale users** by collaborating with **p
 
 ### Backend
 - Node.js / Express js -> Beginner
-- 
+  
 ### Tools
 - Version control: Git
 - Docker and Docker-compose
