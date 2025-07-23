@@ -7,8 +7,11 @@
 [![GitHub](https://img.shields.io/github/followers/Mohammadreza-taherii?label=Follow&style=social)](https://github.com/Mohammadreza-taherii)
 
 ## About Me
-
-Hello there! I'm **MohammadReza Taheri**, a **frontend developer** based in Tehran, Iran. I am currently **29 years old** and I am passionate about crafting user-friendly and visually appealing web applications. My goal is to leverage cutting-edge technologies to build interactive and efficient web experiences.
+## Experience
+**FRONT-END DEVELOPER (REACT JS , NEXT JS)**
+• 6+ years of agile and continuous integration DEVELOPMENT experience on web based applications.
+• 7+ years of experience on user interface design and user experience.
+working on various projects with **large-scale users** by collaborating with **product stakeholders** ( Design, Product, QA, Backend).
 - 🇮🇷 Persian (Native)
 - 🇺🇸 English
 
@@ -30,11 +33,16 @@ Hello there! I'm **MohammadReza Taheri**, a **frontend developer** based in Tehr
 
 ### Backend
 - Node.js / Express js -> Beginner
-
-## Experience
-
-- More than **5** years of experience as a **frontend developer**, specializing in React.js and related technologies.
-- More than **7** years of experience in **UI/UX** design and development.
+- 
+### Tools
+- Version control: Git
+- Docker and Docker-compose
+- Nginx
+- Jira & Agile Scrum
+- Postman & Swagger
+- Jenkins
+- Figma
+- Confluence as a documentation
 
 ## Soft Skills
 
@@ -49,7 +57,7 @@ Hello there! I'm **MohammadReza Taheri**, a **frontend developer** based in Tehr
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/Mohammadrezataheri/), check out my projects on [GitHub](https://github.com/Mohammadrezataheri), or visit my [personal website](https://moreta.ir/). I'm always open to new opportunities and collaborations!
 
 - Phone: +989127635409
-- Email: taheri.mr73@gmail.com
+- Email: mrtaheri.dev@gmail.com
 - Website: https://moreta.ir/
 
 ## PROJECTS DEMO
@@ -73,6 +81,7 @@ State Managment: Redux, Toolkit  <br/>
 Restful, Axios  <br/>
 Version control: Git.
 
+<!--
 <img src="/assets/image/pink-1.png" width="640">
 <img src="/assets/image/pink-2.png" width="640">
 <hr/>
@@ -87,6 +96,7 @@ Version control: Git.
 
 <img src="/assets/image/store-panel.png" width="640">
 <hr/>
+-->
 
 ### **Crypto Exchange** 
 Weswap crypto buy and sell.
