@@ -28,8 +28,6 @@ working on various projects with **large-scale users** by collaborating with **p
 - React-hook-form
 - Version control: Git
 - Graphs: D3.js, Tradingview
-- Docker and Docker-compose
-- NginX
 
 ### Backend
 - Node.js / Express js -> Beginner
